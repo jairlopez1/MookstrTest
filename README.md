@@ -11,5 +11,6 @@
 - KendoUI (Telerik UI MVC)
 - Microsoft Visual Studio 2019 (Mac)
 - SqlLite/SqlServer 
+- Docker/AzureDataStudio
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png?20210328084203)
